@@ -19,7 +19,7 @@ The repository contains code for:
 
 ---
 
-## 📂 File Structure
+## 📂 File
 
 The main files are organized as follows:
 
@@ -40,4 +40,20 @@ The main files are organized as follows:
 
 ---
 
+## 📊 Data
+Simulation data are generated within the code
+Real data example:
+GSE5479 dataset
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5479
 
+---
+
+## 🔖 Citation
+
+If you use this code, please cite:  Variable Selection for Competing Risks Survival Data via the SCED Penalty. (Under review)
+
+---
+
+## 📬 Contact
+
+For questions or comments, please contact:  daisy1111@csu.edu.cn
