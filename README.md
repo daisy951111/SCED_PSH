@@ -6,16 +6,18 @@ The proposed method aims to achieve simultaneous estimation and variable selecti
 
 ---
 
-## 📌 Overview
+- ## 📌 Overview
 
 The repository contains code for:
 
-- Variable selection using the SCED penalty
-- Parameter estimation under the PSH model
-- Tuning parameter selection
-- Simulation studies
-- Real data analysis
+- Simultaneous variable selection and parameter estimation under the PSH model using the SCED penalty  
+- Tuning parameter selection (e.g., EBIC-based selection)  
+- Monte Carlo simulation studies for performance evaluation  
+- Real data analysis for empirical validation  
 - Extension to high-dimensional settings via coordinate descent
+- Computational efficiency analysis
+
+These components collectively reproduce the simulation studies and real data analyses presented in the manuscript.
 
 ---
 
