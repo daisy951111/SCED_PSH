@@ -23,20 +23,20 @@ The repository contains code for:
 
 The main files are organized as follows:
 
-- `Sced_estimation.m`  
-  Performs variable selection and compares the proposed SCED method with other methods as mentioned in paper.
+- `sced_lqa.m`  
+  Main function for simultaneous variable selection and estimation based on the local quadratic approximation (LQA) algorithm.
 
-- `Sced_lqa.m`  
-  Main function for parameter estimation based on the local quadratic approximation (LQA) algorithm.
-
-- `Tunning_sced.m`  
+- `tunning_sced.m`  
   Implements tuning parameter selection (e.g., EBIC-based selection).
 
-- `Real_data.m`  
+- `real_data.m`  
   Real data analysis for empirical validation of the proposed method.
 
-- `Sced_cd.m`  
+- `sced_cd.m`  
   Extension to high-dimensional settings using coordinate descent for simultaneous variable selection and estimation.
+
+- `computing_time.m`  
+  Conducts Monte Carlo simulations to evaluate the computational efficiency of the proposed SCED method and competing approaches.
 
 ---
 
