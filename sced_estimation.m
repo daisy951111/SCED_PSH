@@ -757,3 +757,4 @@ cov_beta = diag( ( term\inv( L_primeprime(index,index)) )/term );
 
 end
 
+Delete Sced_estimation.m (not needed)
